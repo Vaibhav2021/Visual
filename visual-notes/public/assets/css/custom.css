@@ -1,0 +1,343 @@
+.page-body {
+    padding: 0rem 1.60em 5rem 1rem;
+    font-family: 'Wix Madefor Display', sans-serif !important;
+}
+
+.bg-theme-gray {
+    background: #f1f3f5 !important;
+}
+
+.p-10px {
+    padding: 10px !important;
+}
+
+.rounded-8px {
+    border-radius: 8px !important;
+}
+
+.rounded-5px {
+    border-radius: 5px !important;
+}
+
+.border-custom {
+    border: 1px solid rgba(44, 46, 51, 0.10) !important;
+}
+
+.border-custom-50 {
+    border: 1px solid rgba(44, 46, 51, 0.50) !important;
+}
+
+.sidebar-item.active path {
+    fill: #fff !important;
+}
+
+.nav-padding {
+    padding: 6px 12px;
+}
+
+.bg-light-gray {
+    background: #E7EBEF !important;
+}
+
+.p-inner {
+    padding: 0.25rem !important;
+}
+
+.five-nav {
+    color: #2C2E33;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    /* 142.857% */
+}
+
+.five-nav.active {
+    box-shadow: none !important
+}
+
+.select-custom {
+    background: #FAFAFA;
+}
+
+.w-214px {
+    width: 214px;
+}
+
+.shadow-custom:hover {
+    box-shadow: 0px 20px 25px -15px rgba(0, 0, 0, 0.12);
+    transition: 0.3s ease;
+}
+
+.card-box {
+    background: #F5F7F8;
+}
+
+
+.circle {
+    width: 40px;
+    height: 40px;
+}
+
+
+.user-member {
+    margin-left: -0.4rem;
+    width: 40px;
+    z-index: -999;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.user-member:hover {
+    margin-left: 0rem;
+    transition: 0.5s ease;
+    z-index: 9999;
+    height: 40px;
+}
+
+.candidate-btn {
+    background: #D6ECF8;
+    color: #2C2E33;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.candidate-btn:hover {
+    background: #2cadf2;
+    color: #fff;
+    transition: 0.5s ease;
+    /* transform: rotateZ(360deg); */
+}
+
+.text-color {
+    color: #2C2E33;
+}
+
+.rounded-10px {
+    border-radius: 10px;
+}
+
+.fs-7 {
+    font-size: 0.875rem;
+}
+
+.fs-8 {
+    font-size: 0.75rem;
+}
+
+.box-24 {
+    width: 24px !important;
+    height: 24px !important;
+}
+
+.min-width-10 {
+    min-width: 10rem;
+}
+
+.table-header-bg {
+    background: #D6ECF8;
+}
+
+.interview-bg {
+    background: #D6D9F8;
+}
+
+.w-12 {
+    width: 12%;
+}
+
+.box-48 {
+    width: 48px;
+    height: 48px;
+}
+
+.hover-effect {
+    cursor: pointer;
+    color: #2C2E33;
+}
+
+.hover-effect:hover {
+    color: #1D5CFF;
+}
+
+.opening-box {
+    background: #1D5CFF;
+}
+
+.candidate-box {
+    background: #FF6E1D;
+}
+
+.interview-box {
+    background: #8E1DFF;
+}
+
+.hired-box {
+    background: #FF37C7;
+}
+
+.bg-light-skin {
+    background: #FCD9BF;
+    color: #2C2E33;
+}
+
+.bg-light-yellow {
+    background: #FFE68E;
+    color: #2C2E33;
+}
+
+#calendar {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.fc .fc-view-harness-active>.fc-view {
+    inset: 0px;
+    position: absolute;
+    overflow: hidden;
+    border-radius: 8px;
+    /* border: 1px solid rgba(44, 46, 51, 0.20); */
+    background: transparent;
+}
+
+.fc .fc-col-header-cell-cushion {
+    display: inline-block;
+    padding: 2px 4px;
+    color: #5A7087;
+}
+
+.fc .fc-daygrid-day-number {
+    padding: 4px;
+    position: relative;
+    color: #000;
+    text-align: center;
+    font-family: DM sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.5px;
+    z-index: 4;
+}
+
+.fc .fc-toolbar-title {
+    font-size: 1.25rem;
+    margin: 0px;
+    font-family: 'Wix Madefor Display';
+}
+
+.fc-theme-standard td, .fc-theme-standard th {
+    border: 0px solid var(--fc-border-color);
+    width: 40px;
+    height: 40px;
+}
+
+.fc .fc-daygrid-day.fc-day-today {
+    background-color: #b4c4ea;
+    border-radius: 8px;
+}
+
+.fc .fc-non-business {
+    background: transparent;
+}
+
+.fc-theme-standard .fc-scrollgrid {
+    border: 0px solid var(--fc-border-color);
+}
+
+.fc .fc-highlight {
+    background: #1D5CFF;
+    color: #fff;
+    border-radius: 8px;
+}
+
+.fc .fc-highlight a {
+    color: #fff !important;
+}
+
+.fc .fc-daygrid-day-frame {
+    min-height: 100%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-32 {
+    height: 32px;
+    width: 32px;
+}
+/* 
+label {
+    color: #2C2E33;
+    font-family: Wix Madefor Display;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 22px;
+} */
+
+.outer-timeline {
+    padding: 0rem 2.5rem;
+    border-left: 1px solid rgba(44, 46, 51, 0.20);
+}
+
+.outer-timeline-first {
+    padding: 0rem 2.5rem;
+}
+
+.box-12 {
+    width: 12px;
+    height: 12px;
+}
+
+.time-line-points {
+    background: #1D5CFF;
+    border: 2px solid rgba(255, 255, 255, 0.50);
+    position: absolute;
+    left: -6px;
+    top: -6px;
+    border-radius: 50%;
+}
+
+.time-line-points-last {
+    background: #1D5CFF;
+    border: 2px solid rgba(255, 255, 255, 0.50);
+    position: absolute;
+    left: -6px;
+    top: -6px;
+    border-radius: 50%;
+}
+
+#side-close {
+    transition: 0.5s ease;
+}
+
+.rounded-20 {
+    border-radius: 20px;
+}
+
+.box-80 {
+    width: 80px;
+    height: 80px;
+}
+
+#shortlist{
+    display: none;
+}
+
+.shadow-custom{
+    box-shadow: 0px 20px 25px -15px rgba(0, 0, 0, 0.12);
+}
+
+.w-277px{
+    width: 277px;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
+
+.fc-daygrid-event{
+    cursor: pointer;
+}

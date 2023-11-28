@@ -1,0 +1,54 @@
+body{
+    font-family: 'Wix Madefor Display', sans-serif;}
+#auth-bg {
+    background-image: url("../images/VisualNotesBG.webp");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+}
+.auth-form {
+    max-width: 460px;
+    width: 100%;
+}
+.mt-24 {
+    margin-top: 24px;
+}
+.gap-32 {
+    gap: 32px;
+}
+.text-gray {
+    color: #728290;
+}
+.p-12-24 {
+    padding: 12px 24px;
+}
+.input-custom {
+    border-radius: 8px;
+    border: 1px solid #D4DAE6;
+    background: #F3F5F7;
+    gap: 12px;
+}
+.btn-primary-custom{
+    background: #FF7513;
+}
+.btn-primary-custom:hover{
+    background: #e26912;
+    transition: 0.2s ease;
+}
+.btn-google-custom{
+    background: #252B33;
+}
+.btn-google-custom:hover{
+    background: #1e232a;
+    transition: 0.2s ease;
+}
+.h-2rem{
+    height: 2rem;
+}
+@media only screen and (max-width: 576px) {
+    #auth-bg{
+       background: #2D353D;
+        padding: 0px 10px;
+    }
+}
